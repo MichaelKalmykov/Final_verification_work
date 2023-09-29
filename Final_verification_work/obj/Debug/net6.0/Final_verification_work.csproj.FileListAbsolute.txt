@@ -1,0 +1,15 @@
+C:\Users\Михнас\Desktop\Новая папка\Final_verification_work\bin\Debug\net6.0\Final_verification_work.exe
+C:\Users\Михнас\Desktop\Новая папка\Final_verification_work\bin\Debug\net6.0\Final_verification_work.deps.json
+C:\Users\Михнас\Desktop\Новая папка\Final_verification_work\bin\Debug\net6.0\Final_verification_work.runtimeconfig.json
+C:\Users\Михнас\Desktop\Новая папка\Final_verification_work\bin\Debug\net6.0\Final_verification_work.dll
+C:\Users\Михнас\Desktop\Новая папка\Final_verification_work\bin\Debug\net6.0\Final_verification_work.pdb
+C:\Users\Михнас\Desktop\Новая папка\Final_verification_work\obj\Debug\net6.0\Final_verification_work.csproj.AssemblyReference.cache
+C:\Users\Михнас\Desktop\Новая папка\Final_verification_work\obj\Debug\net6.0\Final_verification_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михнас\Desktop\Новая папка\Final_verification_work\obj\Debug\net6.0\Final_verification_work.AssemblyInfoInputs.cache
+C:\Users\Михнас\Desktop\Новая папка\Final_verification_work\obj\Debug\net6.0\Final_verification_work.AssemblyInfo.cs
+C:\Users\Михнас\Desktop\Новая папка\Final_verification_work\obj\Debug\net6.0\Final_verification_work.csproj.CoreCompileInputs.cache
+C:\Users\Михнас\Desktop\Новая папка\Final_verification_work\obj\Debug\net6.0\Final_verification_work.dll
+C:\Users\Михнас\Desktop\Новая папка\Final_verification_work\obj\Debug\net6.0\refint\Final_verification_work.dll
+C:\Users\Михнас\Desktop\Новая папка\Final_verification_work\obj\Debug\net6.0\Final_verification_work.pdb
+C:\Users\Михнас\Desktop\Новая папка\Final_verification_work\obj\Debug\net6.0\Final_verification_work.genruntimeconfig.cache
+C:\Users\Михнас\Desktop\Новая папка\Final_verification_work\obj\Debug\net6.0\ref\Final_verification_work.dll
